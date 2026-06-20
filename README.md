@@ -40,7 +40,7 @@ Currently focused on **enterprise systems, distributed architectures, and perfor
 ## 💼 Work Experience
 
 ### 🏢 CodeGen International (Pvt.) Ltd  
-**Trainee Software Engineer (May 2025 – Present)**
+**Trainee Software Engineer (May 2025 – May 2026)**
 
 - 🚀 Sun Travels Booking System  
   Built full-stack Spring Boot + Angular system reducing booking time by **40%**
