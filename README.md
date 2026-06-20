@@ -1,24 +1,81 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Basindu%20Bandara&fontSize=40&fontColor=ffffff)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Basindu%20Sharshitha%20Bandara&fontSize=36&fontColor=ffffff)
 
-# Hi 👋, I'm Basindu Bandara
+# 👨‍💻 Software Engineer
 
-💻 Full Stack Developer (MERN Stack)  
-🌍 Based in Sri Lanka  
-🚀 Passionate about building scalable web & mobile applications  
-⚡ Focused on clean code, performance, and real-world systems  
+📞 071 415 3371 | 075 980 8192  
+📧 sharshithab2021@gmail.com  
+📍 Colombo-Kandy Road, Yattogoda  
 
----
-
-## 👀 Profile Views
-![Visitors](https://komarev.com/ghpvc/?username=B4S1NDU7&label=Profile%20Views&color=0e75b6&style=flat)
-
----
-
-## 🌐 Connect With Me
-
+🔗 GitHub: https://github.com/B4S1NDU7  
 🔗 LinkedIn: https://www.linkedin.com/in/basindu-bandara/  
-🌐 Portfolio: https://basindu-bandara.netlify.app/  
-🐙 GitHub: https://github.com/B4S1NDU7  
+🌐 Portfolio: https://basindu-bandara.netlify.app  
+
+---
+
+## 👨‍💻 Professional Profile
+
+Software Engineer at **CodeGen International**, experienced in building **enterprise-grade scalable systems** using:
+
+- Spring Boot (Spring 6)
+- Angular (v7–16)
+- Flutter (v3.19)
+- C# Web APIs
+- Microservices & Cloud Architecture
+
+Currently focused on **enterprise systems, distributed architectures, and performance optimization** while pursuing a BSc (Hons) in IT specializing in Software Engineering.
+
+---
+
+## 🧠 Core Expertise
+
+✔ Microservices Architecture  
+✔ Enterprise System Design  
+✔ Cloud & DevOps (CI/CD, Docker, Kubernetes)  
+✔ API Development & Integration  
+✔ Mobile & Web App Development  
+✔ Performance Optimization  
+
+---
+
+## 💼 Work Experience
+
+### 🏢 CodeGen International (Pvt.) Ltd  
+**Trainee Software Engineer (May 2025 – Present)**
+
+- 🚀 Sun Travels Booking System  
+  Built full-stack Spring Boot + Angular system reducing booking time by **40%**
+
+- 🔄 DMC Migration Project  
+  Migrated Angular 7 → Angular 16 enforcing Ivy & strict typing standards
+
+- ☕ DSN System Upgrade (Java 7 → Java 21, Spring 6)  
+  Improved security compliance & garbage collection performance
+
+- 📱 Flutter Mobile Upgrade  
+  Rebuilt mobile system (Flutter 3.19) reducing build time by **40%**
+
+- 🤖 Lumos AI Chatbot  
+  Designed LLM-enhanced debugging UI with binary file upload support
+
+---
+
+## 🚀 Project Experience
+
+### ☁️ Enterprise & Cloud Systems
+- Food Delivery Microservices Platform (Spring Boot + React + Kubernetes)
+- EV Charging System (C# Web API + React Dashboard + SQL optimization)
+
+### 🌐 Full Stack Development
+- Tourism Management System (MERN Stack)
+- Healthcare Appointment System (MERN Stack)
+- Hotel Reservation System (Java / PHP)
+
+### 📱 Mobile Applications
+- Health & Fitness App (React Native)
+- Android Game App (Kotlin + View Binding)
+
+### ⚙️ Software Systems
+- Event Management System (Java)
 
 ---
 
@@ -26,19 +83,21 @@
 
 ### 💻 Programming Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ---
 
-### ⚛️ Frameworks & Libraries
+### ⚛️ Frameworks & Platforms
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ---
 
@@ -46,44 +105,23 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ---
 
-### 🛠️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+### 🛠️ DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-Automation-ff6f00?style=for-the-badge)
 
 ---
 
-## 🚀 Featured Projects
+## 📊 GitHub Analytics
 
-- 🏨 Hotel Reservation System (PHP / MySQL)  
-- 🌍 Tourism Management System (Full Stack Web App)  
-- 📱 Task Management App (Kotlin Android App)  
-- 🎮 Mobile Game App (Kotlin)  
-- 💼 Portfolio Website (React / Vite)  
+![Stats](https://github-readme-stats.vercel.app/api?username=B4S1NDU7&show_icons=true&theme=tokyonight)
 
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=B4S1NDU7&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=B4S1NDU7&layout=compact&theme=tokyonight)
-
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=B4S1NDU7&theme=tokyonight)
-
----
-
-## 🟢 Activity Overview
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=B4S1NDU7&theme=tokyonight)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=B4S1NDU7&theme=react-dark)
 
@@ -91,11 +129,14 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=B4S1NDU7&theme=tokyonight&no-frame=true&row=1&column=6)
+🚀 Enterprise System Development Experience  
+⚡ Microservices Architecture Contributor  
+🔥 Full Stack & Mobile Development Engineer  
+🧠 Cloud & DevOps Practitioner  
 
 ---
 
 ## ⚡ Fun Fact
-I enjoy building real-world systems and continuously improving my development skills.
+I enjoy designing scalable systems and solving real-world engineering problems using clean architecture.
