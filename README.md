@@ -1,6 +1,7 @@
+<!-- 🎬 HEADER BANNER -->
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Basindu%20Sharshitha%20Bandara&fontSize=36&fontColor=ffffff)
 
-# 👨‍💻 Software Engineer
+# 👨‍💻 SOFTWARE ENGINEER — PROFILE
 
 📞 071 415 3371 | 075 980 8192  
 📧 sharshithab2021@gmail.com  
@@ -12,7 +13,7 @@
 
 ---
 
-## 👨‍💻 Professional Profile
+## ▶️ NOW PLAYING: PROFESSIONAL PROFILE
 
 Software Engineer at **CodeGen International**, experienced in building **enterprise-grade scalable systems** using:
 
@@ -22,11 +23,11 @@ Software Engineer at **CodeGen International**, experienced in building **enterp
 - C# Web APIs
 - Microservices & Cloud Architecture
 
-Currently focused on **enterprise systems, distributed architectures, and performance optimization** while pursuing a BSc (Hons) in IT specializing in Software Engineering.
+Focused on **distributed systems, enterprise architecture, and performance optimization**.
 
 ---
 
-## 🧠 Core Expertise
+## 🧠 CORE EXPERTISE (SKILLS VAULT)
 
 ✔ Microservices Architecture  
 ✔ Enterprise System Design  
@@ -37,35 +38,35 @@ Currently focused on **enterprise systems, distributed architectures, and perfor
 
 ---
 
-## 💼 Work Experience
+## 💼 NOW SHOWING: WORK EXPERIENCE
 
 ### 🏢 CodeGen International (Pvt.) Ltd  
 **Trainee Software Engineer (May 2025 – May 2026)**
 
 - 🚀 Sun Travels Booking System  
-  Built full-stack Spring Boot + Angular system reducing booking time by **40%**
+  Built Spring Boot + Angular system reducing booking time by **40%**
 
 - 🔄 DMC Migration Project  
-  Migrated Angular 7 → Angular 16 enforcing Ivy & strict typing standards
+  Angular 7 → Angular 16 migration enforcing Ivy & strict typing
 
 - ☕ DSN System Upgrade (Java 7 → Java 21, Spring 6)  
-  Improved security compliance & garbage collection performance
+  Improved security + performance + garbage collection efficiency
 
-- 📱 Flutter Mobile Upgrade  
-  Rebuilt mobile system (Flutter 3.19) reducing build time by **40%**
+- 📱 Flutter Mobile Upgrade (v3.19)  
+  Reduced build time by **40%** with modular architecture
 
 - 🤖 Lumos AI Chatbot  
-  Designed LLM-enhanced debugging UI with binary file upload support
+  Built LLM-enhanced debugging UI with binary file upload support
 
 ---
 
-## 🚀 Project Experience
+## 🎞️ FEATURED PROJECTS (CINEMA CATALOG)
 
 ### ☁️ Enterprise & Cloud Systems
 - Food Delivery Microservices Platform (Spring Boot + React + Kubernetes)
-- EV Charging System (C# Web API + React Dashboard + SQL optimization)
+- EV Charging System (C# Web API + React Dashboard + SQL Optimization)
 
-### 🌐 Full Stack Development
+### 🌐 Full Stack Applications
 - Tourism Management System (MERN Stack)
 - Healthcare Appointment System (MERN Stack)
 - Hotel Reservation System (Java / PHP)
@@ -79,9 +80,9 @@ Currently focused on **enterprise systems, distributed architectures, and perfor
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 TECH STACK (DEVELOPER VAULT)
 
-## 💻 Programming Languages
+---
 
 ## 💻 Programming Languages
 
@@ -119,12 +120,12 @@ Currently focused on **enterprise systems, distributed architectures, and perfor
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-Automation-FF6F00?style=for-the-badge)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-FF6F00?style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=F0F0F0)
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 LIVE GITHUB ANALYTICS
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=B4S1NDU7&show_icons=true&theme=tokyonight)
 
@@ -136,14 +137,15 @@ Currently focused on **enterprise systems, distributed architectures, and perfor
 
 ---
 
-## 🏆 Achievements
+## 🏆 ACHIEVEMENTS
 
-🚀 Enterprise System Development Experience  
+🚀 Enterprise Software Development Experience  
 ⚡ Microservices Architecture Contributor  
-🔥 Full Stack & Mobile Development Engineer  
+🔥 Full Stack & Mobile Engineering  
 🧠 Cloud & DevOps Practitioner  
 
 ---
 
-## ⚡ Fun Fact
-I enjoy designing scalable systems and solving real-world engineering problems using clean architecture.
+## ⚡ FINAL SCENE (QUOTE)
+
+> “I design scalable systems with clean architecture, performance, and real-world impact.”
