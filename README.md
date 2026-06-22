@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Basindu%20Sharshitha%20Bandara&fontSize=36&fontColor=ffffff)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Basindu Bandara&fontSize=36&fontColor=ffffff)
 
 # 👨‍💻 Software Engineer
 
